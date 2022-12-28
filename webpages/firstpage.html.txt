@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8">
+	<title>My first Page</title>
+</head>
+<body>
+	<h1>hi there</h1>
+<a href= “mailto:shayhowe@awesome.com?subject=Hi&body=How%are%you”>Email</a>
+</body>
+</html>
